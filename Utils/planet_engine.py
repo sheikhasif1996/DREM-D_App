@@ -1,1 +1,3 @@
-# The backbone of this code is taken from planet
+# The following script is based on planet API
+
+print("Welcome to our app")
